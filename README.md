@@ -9,7 +9,7 @@ Proyek ini bertujuan untuk menganalisis data pada E-Commerce Public Dataset. Tuj
 ## Instalasi
 Clone repository ini ke Local Computer anda dengan menggunakan perintah :
 ```
-git.cone https://github.com?bachtiarrizkyal/ProyekAnalisisData.git
+git.cone https://github.com/bachtiarrizkyal/ProyekAnalisisData.git
 ```
 ## Setup Environtment
 ```
