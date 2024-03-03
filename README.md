@@ -13,11 +13,11 @@ git.cone https://github.com?bachtiarrizkyal/Proyek-Analisis-Data.git
 ```
 ## Setup Environtment
 ```
-conda create --name main-ds
+conda create --name main-ds python=3.9
 conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
-## Run Steamlit
+## Run Steamlit App
 ```
 streamlit run dashboard.py
 ```
