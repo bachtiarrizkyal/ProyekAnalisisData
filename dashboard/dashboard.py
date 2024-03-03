@@ -225,7 +225,7 @@ st.pyplot(fig)
 st.markdown("<hr style='margin: 15px 0; border-color: #4A3AFF;'>", unsafe_allow_html=True)
 
 # === TINGKAT KEPUASAN CUSTOMER ====
-st.subheader('Kinerja Penjualan di Platform E-Commerce')
+st.subheader('Tingkat Kepuasan Customer')
 import pandas as pd
 import numpy as np
 
