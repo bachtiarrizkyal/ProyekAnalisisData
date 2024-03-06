@@ -21,3 +21,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard.py
 ```
+## This is My Rating from Reviewer
+<img width="708" alt="Screenshot 2024-03-06 161341" src="https://github.com/bachtiarrizkyal/ProyekAnalisisData/assets/100037855/370755a1-11b3-4bb0-a57f-dcb1f4b084e3">
+
